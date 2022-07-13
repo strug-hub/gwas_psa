@@ -1,7 +1,7 @@
 # Summary Statistics for Genome-Wide Association Study of Susceptibility to Pseudomonas aeruginosa Infection in Cystic Fibrosis
 
 
-These are the summary statistics for GWAS of age at the first and chronic Pseudomonas aeruginosa (Pa) infection in Canadians with CF. The first and chronic Pseudomonas aeruginosa (Pa) infection ages were first regressed on current age and CFTR genotype severity score, then the residuals are the outcomes of interest for our genetic analyses. Genetic association testing was conducted based on a linear mixed-effect model to control the sampled relatedness, with the top four principal components and sex as covariates. 
+These are the summary statistics for GWAS of age at the first and chronic Pseudomonas aeruginosa (Pa) infection in Canadians with CF. The first and chronic Pseudomonas aeruginosa (Pa) infection ages were first regressed on current age and CFTR genotype severity score, then the residuals are the outcomes of interest for our genetic analyses. Genetic association testing was conducted based on a linear mixed-effect model to control the sample relatedness, with the top four principal components and sex as covariates. 
 
 Column descriptions:
 
